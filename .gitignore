@@ -1,0 +1,9 @@
+# Private files - never upload
+private_backup/
+secret.key
+users
+users.txt
+
+# Python temporary files
+__pycache__/
+*.pyc
